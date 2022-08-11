@@ -2,7 +2,6 @@
 <h3 align="center">I'm currently learning to code and making my bot!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaxl13&label=Profile%20views&color=0e75b6&style=flat" alt="sunaxl13" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunaxl13" alt="sunaxl13" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -14,6 +13,8 @@
 - 🤝 I’m looking for help with [AvdanOS](https://github.com/Avdan-OS)
 
 - 💬 Ask me about **Anything I'm open!**
+
+- 💻 Upcoming Projects **Project MECH**
 
 - 📫 How to reach me **sunaxlbaldonado13@gmail.com**
 
