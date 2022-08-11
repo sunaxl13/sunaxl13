@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm axld</h1>
 <h3 align="center">I'm currently learning to code and making my bot!</h3>
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
-</a>
-</p>
+<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join the flowOS Server "/>
+
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaxl13&label=Profile%20views&color=0e75b6&style=flat" alt="sunaxl13" /> </p>
 <a href="https://github.com/sunaxl13/sunaxl13/blob/main/README.md/fork" target="blank">
